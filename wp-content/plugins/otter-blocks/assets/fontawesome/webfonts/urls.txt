@@ -1,0 +1,8 @@
+
+https://www.uniscrow.com/wp-content/plugins/otter-blocks/assets/fontawesome/webfonts/fa-solid-900.woff2
+https://www.uniscrow.com/wp-content/plugins/otter-blocks/assets/fontawesome/webfonts/fa-brands-400.woff2
+https://www.uniscrow.com/wp-content/plugins/otter-blocks/assets/fontawesome/webfonts/fa-solid-900.woff
+https://www.uniscrow.com/wp-content/plugins/otter-blocks/assets/fontawesome/webfonts/fa-brands-400.woff
+https://www.uniscrow.com/wp-content/plugins/otter-blocks/assets/fontawesome/webfonts/fa-solid-900.ttf
+https://www.uniscrow.com/wp-content/plugins/otter-blocks/assets/fontawesome/webfonts/fa-brands-400.ttf
+https://www.uniscrow.com/wp-content/uploads/2022/06/favicon.svg
