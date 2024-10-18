@@ -106,20 +106,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 		
 	
 	
-	<!-- Copyright (c) 2000-2022 etracker GmbH. All rights reserved. -->
-<!-- This material may not be reproduced, displayed, modified or distributed -->
-<!-- without the express prior written permission of the copyright holder. -->
-<!-- etracker tracklet 5.0 -->
-<script type="text/javascript">
-// var et_pagename = "";
-// var et_areas = "";
-// var et_tval = 0;
-// var et_tsale = 0;
-// var et_tonr = "";
-// var et_basket = "";
-</script>
-<script id="_etLoader" type="text/javascript" charset="UTF-8" data-block-cookies="true" data-secure-code="4EbUFs" src="//code.etracker.com/code/e.js" async></script>
-<!-- etracker tracklet 5.0 end -->
+	
 	<meta name="google-site-verification" content="EVbBHYb8SLCeL4b0j29a8P5s2aTnTeP3syCYj_89qts" />
 </head>
 
